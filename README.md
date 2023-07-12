@@ -10,5 +10,7 @@ The default cloud cover filter percentage(50%) was used to create the train, val
 Model results:
 
 Accuracy: 89%
+
 Precision: 91%
+
 Recall: 96%
